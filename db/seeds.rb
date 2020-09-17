@@ -14,3 +14,9 @@ Kid.create(
   favorite_color: "Blue",
   age: 12,
 )
+Kid.create(
+  username: "Stan",
+  description: "Stan is a Stan",
+  favorite_color: "Red",
+  age: 13,
+)
